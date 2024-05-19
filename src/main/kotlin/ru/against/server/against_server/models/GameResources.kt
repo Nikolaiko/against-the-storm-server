@@ -11,5 +11,4 @@ data class GameResources constructor(
     var name: String? = null,
     var imageUrl: String? = null,
     var description: String? = null,
-
 )
