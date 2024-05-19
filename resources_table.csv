@@ -1,0 +1,17 @@
+0,Ткань,images/resources/icons/icon_resource_fabric.png,"Производится из волокна, шелка или тросника.
+Шелк можно вырастить на ферме, тросник добыть в месах произростания, а волокно получается как побочный продукт вырубки деревьев.
+Ткань можно произвести во многих зданиях, с разной эффективностью.
+Она требуется для строительства, а также производста плащей."
+1,Кирпичи,images/resources/icons/icon_resource_bricks.png,"Производится из камня и глины. Камень и глину можно добыть в залежах камней и глины,
+а также получить как побочный продукт производства в шахтах.Кирпичи можно произвести во многих зданиях,
+с разной эффективностью"
+2,Эль,images/resources/icons/icon_resource_ale.png,Used for Leisure
+3,Плащи,images/resources/icons/icon_resource_coats.png,Used as clothing by some villagers
+4,Благовония,images/resources/icons/icon_resource_incense.png,Used for Religion
+5,Красители,images/resources/icons/icon_resource_cosmetics.png,Used for Cleanliness
+6,Запчасти,images/resources/icons/icon_resource_parts.png,Rare elements used in camp construction
+7,Доски,images/resources/icons/icon_resource_planks.png,Mostly used for construction
+8,Эссенция Древнего Огня,images/resources/icons/icon_resource_wildfire.png,"A sentient flame trapped in a bottle. This rare material is used to light the Holy Flame in Hearths. Can be acquired from Orders, Glade Events, or Traders"
+9,Свитки,images/resources/icons/icon_resource_scrolls.png,Used for Education
+10,Вино,images/resources/icons/icon_resource_wine.png,Used for Luxury
+11,Тренировочное снаряжение,images/resources/icons/icon_resource_training_gear.png,Used for Brawling
